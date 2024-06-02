@@ -1,0 +1,6 @@
+inurl:{test}
+intext:{test}
+inallurl:{test}
+inalltext:{test}
+intitle:{test}
+filetype:{test}
